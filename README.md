@@ -12,7 +12,8 @@ This project focuses on visualizing data using Python and various visualization 
 #### Dataset
 This project uses a sample dataset named `Health_Heart_Experimental.csv`. The dataset contains information about various aspects of human health, such as blood pressure (BP), diabetes, BMI index, and more.
 
-#### Features- **Interactive visualizations** using `matplotlib` and `seaborn`.
+#### Features
+- **Interactive visualizations** using `matplotlib` and `seaborn`.
 - **Dataset analysis** with Python libraries like `pandas` and `numpy`.
 - **Easy-to-understand visual representation** of data.
 
@@ -28,9 +29,22 @@ This project explores the application of linear algebra concepts in data science
 - **Solving systems of linear equations** using Python libraries.
 
 #### Features
-- Real-world examples demonstrating the application of linear algebra in data science.
-- Step-by-step explanations of mathematical concepts.
-- Code implementations using `numpy` for efficient computations.
+- **Real-world examples** demonstrating the application of linear algebra in data science.
+- **Step-by-step explanations** of mathematical concepts.
+- **Code implementations** using `numpy` for efficient computations.
+
+### 3. Probability and Statistics
+
+#### Description
+This project applies probability and statistical concepts to analyze datasets. It demonstrates fundamental statistical measures and probability distributions for data analysis.
+
+#### Dataset
+This project uses the `iris.csv` dataset. The dataset contains measurements of different flower species, including petal and sepal length and width.
+
+#### Features
+- **Descriptive statistics** such as mean, median, mode, and standard deviation.
+- **Probability distributions** and their applications.
+- **Utilization of `sklearn`** for normalization and standardization.
 
 ---
 
