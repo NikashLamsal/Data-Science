@@ -46,6 +46,22 @@ This project uses the `iris.csv` dataset. The dataset contains measurements of d
 - **Probability distributions** and their applications.
 - **Utilization of `sklearn`** for normalization and standardization.
 
+### 4. Feature Engineering
+
+#### Description
+This project demonstrates the process of feature engineering, which involves creating new features from raw data to improve model performance in machine learning.
+
+#### Dataset
+This project uses the `titanic.csv` dataset. It contains information about Titanic passengers, including demographic details, ticket class, fare, and survival status.
+
+#### Features
+- **Principal Component Analysis (PCA)** for dimensionality reduction and feature selection.
+- **Handling missing values** using imputation techniques.
+- **Feature scaling and encoding** to transform categorical and numerical data for machine learning models.
+- **Correlation analysis** to identify the most impactful features.
+- **Statistical insights** on factors influencing survival.
+- **Data preprocessing** for handling missing values and feature engineering.
+
 ---
 
 This repository will be continually updated with new projects and enhancements. Stay tuned for more!
