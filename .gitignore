@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / Python
+__pycache__/
+*.pyc
+
+# Your unwanted files
+project_filebrowser.db
+anaconda_projects/
+
